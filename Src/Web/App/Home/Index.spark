@@ -1,0 +1,13 @@
+﻿<viewdata model="Fubu1.App.Home.IndexViewModel" />
+
+<html>
+<head>
+  
+</head>
+  
+<body>  
+  <div id="imageContainer">
+	  <h1>Home</h1>
+  </div>
+</body>
+</html>
