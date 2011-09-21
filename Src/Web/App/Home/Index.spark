@@ -8,6 +8,12 @@
 <body>  
   <div id="imageContainer">
 	  <h1>Home</h1>
+
+    <ul>
+      <li>
+        ${this.LinkTo<Fubu1.App.Home.HomeController>(c => c.Index()).Text("home")}</li>
+      
+    </ul>
   </div>
 </body>
 </html>
